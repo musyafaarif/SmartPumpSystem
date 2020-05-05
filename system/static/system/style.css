@@ -1,0 +1,25 @@
+body {
+    max-width: 1260px;
+    width: 100%;
+    min-height: 100%;
+
+    margin: 0 auto;
+
+    background: url("images/background.jpeg") no-repeat center top fixed;
+}
+
+.content {
+    margin: 60px 20px;
+    height: 100%;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  transform: translateX(-50%);
+}

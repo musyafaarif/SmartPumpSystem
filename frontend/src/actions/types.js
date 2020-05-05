@@ -1,0 +1,30 @@
+export const GET_SYSTEM_HOSTS = "GET_SYSTEM_HOSTS";
+export const GET_SYSTEM_HOST = "GET_SYSTEM_HOST";
+
+export const CREATE_SYSTEM_HOST = "CREATE_SYSTEM_HOST";
+export const DELETE_SYSTEM_HOST = "DELETE_SYSTEM_HOST";
+export const EDIT_SYSTEM_HOST = "EDIT_SYSTEM_HOST";
+export const SELECT_SYSTEM_HOST = "SELECT_SYSTEM_HOST";
+
+export const GET_PUMPS = "GET_PUMPS";
+export const CREATE_PUMP = "CREATE_PUMP";
+export const DELETE_PUMP = "DELETE_PUMP";
+export const EDIT_PUMP = "EDIT_PUMP";
+
+export const GET_ERRORS = "GET_ERRORS";
+
+export const GET_MESSAGES = "GET_MESSAGES";
+export const CREATE_MESSAGE = "CREATE_MESSAGE";
+
+export const GET_LOC_PROVINCE = "GET_LOC_PROVINCE";
+export const GET_LOC_REGENCY = "GET_LOC_REGENCY";
+export const GET_LOC_DISTRICT = "GET_LOC_DISTRICT";
+export const GET_LOC_VILLAGE = "GET_LOC_VILLAGE";
+
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAIL = "LOGOUT_FAIL";

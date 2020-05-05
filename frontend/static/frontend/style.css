@@ -1,0 +1,25 @@
+body {
+    max-width: 1500px;
+    width: 100%;
+    min-height: 100%;
+
+    margin: 0 auto;
+
+    background: url("images/background.jpeg") no-repeat center top fixed;
+}
+
+.content {
+  margin-top: 75px;
+}
+
+hr.dashed {
+  border-top: 2px dashed #999;
+}
+
+hr.dotted {
+  border-top: 2px dotted #999;
+}
+
+hr.solid {
+  border-top: 2px solid #999;
+}
